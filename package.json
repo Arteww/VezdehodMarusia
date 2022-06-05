@@ -8,7 +8,7 @@
     "deploy": "sls deploy --stage=production"
   },
   "devDependencies": {
-    "serverless": "^1.78.1",
-    "serverless-offline": "^6.5.0"
+    "serverless": "^3.19.0",
+    "serverless-offline": "^8.8.0"
   }
 }
